@@ -95,5 +95,8 @@
     // "files": [
     //   "src/*"
     // ]
+  },
+  "ts-node": {
+    "swc": true,
   }
 }
