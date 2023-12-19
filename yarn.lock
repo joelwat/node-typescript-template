@@ -4180,7 +4180,7 @@ __metadata:
     jest: "npm:^27.5.1"
     ts-jest: "npm:^27.1.4"
     ts-node: "npm:^10.7.0"
-    typescript: "npm:^4.6.3"
+    typescript: "npm:^5.0.0"
     yup: "npm:^0.32.11"
   languageName: unknown
   linkType: soft
@@ -5275,23 +5275,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.6.3":
-  version: 4.6.3
-  resolution: "typescript@npm:4.6.3"
+"typescript@npm:^5.0.0":
+  version: 5.3.3
+  resolution: "typescript@npm:5.3.3"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 53e8bcf00abde8ecb2002d1f1e15160b21cb62b2dd0ff71bad2ef55fa96141f76316fce649a415758d3f17bd8e0c5676d8f017c34ec3e38b585812d4717a712c
+  checksum: e33cef99d82573624fc0f854a2980322714986bc35b9cb4d1ce736ed182aeab78e2cb32b385efa493b2a976ef52c53e20d6c6918312353a91850e2b76f1ea44f
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@npm%3A^4.6.3#optional!builtin<compat/typescript>":
-  version: 4.6.3
-  resolution: "typescript@patch:typescript@npm%3A4.6.3#optional!builtin<compat/typescript>::version=4.6.3&hash=5d3a66"
+"typescript@patch:typescript@npm%3A^5.0.0#optional!builtin<compat/typescript>":
+  version: 5.3.3
+  resolution: "typescript@patch:typescript@npm%3A5.3.3#optional!builtin<compat/typescript>::version=5.3.3&hash=e012d7"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 8d62a37d9f238d83b6cdc738be90bb476a61c7e05d5924ecfb894eb63f39406b0660bd931876546a2be6895cd2678ddcb7f6793ceaab1454bc4e39f3cd9eb889
+  checksum: 1d0a5f4ce496c42caa9a30e659c467c5686eae15d54b027ee7866744952547f1be1262f2d40de911618c242b510029d51d43ff605dba8fb740ec85ca2d3f9500
   languageName: node
   linkType: hard
 
