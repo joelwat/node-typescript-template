@@ -26,8 +26,8 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["@swc/core", "npm:1.2.164"],\
-          ["@swc/helpers", "npm:0.3.8"],\
+          ["@swc/core", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:1.3.101"],\
+          ["@swc/helpers", "npm:0.5.3"],\
           ["@types/jest", "npm:27.5.2"],\
           ["@types/node", "npm:16.11.26"],\
           ["@typescript-eslint/eslint-plugin", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.18.0"],\
@@ -1225,149 +1225,153 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@swc/core", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@swc-core-npm-1.2.164-578f639b45-10c0.zip/node_modules/@swc/core/",\
+      ["npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-virtual-b59154f3b8/node_modules/@swc/core/",\
         "packageDependencies": [\
-          ["@swc/core", "npm:1.2.164"],\
-          ["@swc/core-android-arm-eabi", "npm:1.2.164"],\
-          ["@swc/core-android-arm64", "npm:1.2.164"],\
-          ["@swc/core-darwin-arm64", "npm:1.2.164"],\
-          ["@swc/core-darwin-x64", "npm:1.2.164"],\
-          ["@swc/core-freebsd-x64", "npm:1.2.164"],\
-          ["@swc/core-linux-arm-gnueabihf", "npm:1.2.164"],\
-          ["@swc/core-linux-arm64-gnu", "npm:1.2.164"],\
-          ["@swc/core-linux-arm64-musl", "npm:1.2.164"],\
-          ["@swc/core-linux-x64-gnu", "npm:1.2.164"],\
-          ["@swc/core-linux-x64-musl", "npm:1.2.164"],\
-          ["@swc/core-win32-arm64-msvc", "npm:1.2.164"],\
-          ["@swc/core-win32-ia32-msvc", "npm:1.2.164"],\
-          ["@swc/core-win32-x64-msvc", "npm:1.2.164"]\
+          ["@swc/core", "npm:1.3.101"]\
         ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["@swc/core-android-arm-eabi", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-android-arm-eabi-npm-1.2.164-d14cee2ad7/node_modules/@swc/core-android-arm-eabi/",\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-virtual-b59154f3b8/node_modules/@swc/core/",\
         "packageDependencies": [\
-          ["@swc/core-android-arm-eabi", "npm:1.2.164"]\
+          ["@swc/core", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:1.3.101"],\
+          ["@swc/core-darwin-arm64", "npm:1.3.101"],\
+          ["@swc/core-darwin-x64", "npm:1.3.101"],\
+          ["@swc/core-linux-arm-gnueabihf", "npm:1.3.101"],\
+          ["@swc/core-linux-arm64-gnu", "npm:1.3.101"],\
+          ["@swc/core-linux-arm64-musl", "npm:1.3.101"],\
+          ["@swc/core-linux-x64-gnu", "npm:1.3.101"],\
+          ["@swc/core-linux-x64-musl", "npm:1.3.101"],\
+          ["@swc/core-win32-arm64-msvc", "npm:1.3.101"],\
+          ["@swc/core-win32-ia32-msvc", "npm:1.3.101"],\
+          ["@swc/core-win32-x64-msvc", "npm:1.3.101"],\
+          ["@swc/counter", "npm:0.1.2"],\
+          ["@swc/helpers", "npm:0.5.3"],\
+          ["@swc/types", "npm:0.1.5"],\
+          ["@types/swc__helpers", null]\
         ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["@swc/core-android-arm64", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-android-arm64-npm-1.2.164-037a6d7b6d/node_modules/@swc/core-android-arm64/",\
-        "packageDependencies": [\
-          ["@swc/core-android-arm64", "npm:1.2.164"]\
+        "packagePeers": [\
+          "@swc/helpers",\
+          "@types/swc__helpers"\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/core-darwin-arm64", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-darwin-arm64-npm-1.2.164-089ab1d5d2/node_modules/@swc/core-darwin-arm64/",\
+      ["npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-darwin-arm64-npm-1.3.101-95a39b9469/node_modules/@swc/core-darwin-arm64/",\
         "packageDependencies": [\
-          ["@swc/core-darwin-arm64", "npm:1.2.164"]\
+          ["@swc/core-darwin-arm64", "npm:1.3.101"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/core-darwin-x64", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-darwin-x64-npm-1.2.164-19d3129d4b/node_modules/@swc/core-darwin-x64/",\
+      ["npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-darwin-x64-npm-1.3.101-b72881a735/node_modules/@swc/core-darwin-x64/",\
         "packageDependencies": [\
-          ["@swc/core-darwin-x64", "npm:1.2.164"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["@swc/core-freebsd-x64", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-freebsd-x64-npm-1.2.164-3f7e05798d/node_modules/@swc/core-freebsd-x64/",\
-        "packageDependencies": [\
-          ["@swc/core-freebsd-x64", "npm:1.2.164"]\
+          ["@swc/core-darwin-x64", "npm:1.3.101"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/core-linux-arm-gnueabihf", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-linux-arm-gnueabihf-npm-1.2.164-1e6781b50a/node_modules/@swc/core-linux-arm-gnueabihf/",\
+      ["npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-linux-arm-gnueabihf-npm-1.3.101-f589e84a87/node_modules/@swc/core-linux-arm-gnueabihf/",\
         "packageDependencies": [\
-          ["@swc/core-linux-arm-gnueabihf", "npm:1.2.164"]\
+          ["@swc/core-linux-arm-gnueabihf", "npm:1.3.101"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/core-linux-arm64-gnu", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-linux-arm64-gnu-npm-1.2.164-f9b1a45531/node_modules/@swc/core-linux-arm64-gnu/",\
+      ["npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-linux-arm64-gnu-npm-1.3.101-f2fad50b3b/node_modules/@swc/core-linux-arm64-gnu/",\
         "packageDependencies": [\
-          ["@swc/core-linux-arm64-gnu", "npm:1.2.164"]\
+          ["@swc/core-linux-arm64-gnu", "npm:1.3.101"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/core-linux-arm64-musl", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-linux-arm64-musl-npm-1.2.164-89c0f27e33/node_modules/@swc/core-linux-arm64-musl/",\
+      ["npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-linux-arm64-musl-npm-1.3.101-d59dbf7b74/node_modules/@swc/core-linux-arm64-musl/",\
         "packageDependencies": [\
-          ["@swc/core-linux-arm64-musl", "npm:1.2.164"]\
+          ["@swc/core-linux-arm64-musl", "npm:1.3.101"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/core-linux-x64-gnu", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-linux-x64-gnu-npm-1.2.164-eccce870d6/node_modules/@swc/core-linux-x64-gnu/",\
+      ["npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-linux-x64-gnu-npm-1.3.101-cc4c68d22a/node_modules/@swc/core-linux-x64-gnu/",\
         "packageDependencies": [\
-          ["@swc/core-linux-x64-gnu", "npm:1.2.164"]\
+          ["@swc/core-linux-x64-gnu", "npm:1.3.101"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/core-linux-x64-musl", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-linux-x64-musl-npm-1.2.164-f218dad502/node_modules/@swc/core-linux-x64-musl/",\
+      ["npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-linux-x64-musl-npm-1.3.101-65d7867d25/node_modules/@swc/core-linux-x64-musl/",\
         "packageDependencies": [\
-          ["@swc/core-linux-x64-musl", "npm:1.2.164"]\
+          ["@swc/core-linux-x64-musl", "npm:1.3.101"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/core-win32-arm64-msvc", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-win32-arm64-msvc-npm-1.2.164-0929259d12/node_modules/@swc/core-win32-arm64-msvc/",\
+      ["npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-win32-arm64-msvc-npm-1.3.101-e60f5c9ebc/node_modules/@swc/core-win32-arm64-msvc/",\
         "packageDependencies": [\
-          ["@swc/core-win32-arm64-msvc", "npm:1.2.164"]\
+          ["@swc/core-win32-arm64-msvc", "npm:1.3.101"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/core-win32-ia32-msvc", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-win32-ia32-msvc-npm-1.2.164-19122298d5/node_modules/@swc/core-win32-ia32-msvc/",\
+      ["npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-win32-ia32-msvc-npm-1.3.101-8068c832ad/node_modules/@swc/core-win32-ia32-msvc/",\
         "packageDependencies": [\
-          ["@swc/core-win32-ia32-msvc", "npm:1.2.164"]\
+          ["@swc/core-win32-ia32-msvc", "npm:1.3.101"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/core-win32-x64-msvc", [\
-      ["npm:1.2.164", {\
-        "packageLocation": "./.yarn/unplugged/@swc-core-win32-x64-msvc-npm-1.2.164-4917aec291/node_modules/@swc/core-win32-x64-msvc/",\
+      ["npm:1.3.101", {\
+        "packageLocation": "./.yarn/unplugged/@swc-core-win32-x64-msvc-npm-1.3.101-128403c94a/node_modules/@swc/core-win32-x64-msvc/",\
         "packageDependencies": [\
-          ["@swc/core-win32-x64-msvc", "npm:1.2.164"]\
+          ["@swc/core-win32-x64-msvc", "npm:1.3.101"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@swc/counter", [\
+      ["npm:0.1.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@swc-counter-npm-0.1.2-a28358f058-10c0.zip/node_modules/@swc/counter/",\
+        "packageDependencies": [\
+          ["@swc/counter", "npm:0.1.2"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/helpers", [\
-      ["npm:0.3.8", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@swc-helpers-npm-0.3.8-3ddc2f312f-10c0.zip/node_modules/@swc/helpers/",\
+      ["npm:0.5.3", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@swc-helpers-npm-0.5.3-4782a7cae3-10c0.zip/node_modules/@swc/helpers/",\
         "packageDependencies": [\
-          ["@swc/helpers", "npm:0.3.8"]\
+          ["@swc/helpers", "npm:0.5.3"],\
+          ["tslib", "npm:2.6.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@swc/types", [\
+      ["npm:0.1.5", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@swc-types-npm-0.1.5-97cff73f52-10c0.zip/node_modules/@swc/types/",\
+        "packageDependencies": [\
+          ["@swc/types", "npm:0.1.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5299,8 +5303,8 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["node-typescript-template", "workspace:."],\
-          ["@swc/core", "npm:1.2.164"],\
-          ["@swc/helpers", "npm:0.3.8"],\
+          ["@swc/core", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:1.3.101"],\
+          ["@swc/helpers", "npm:0.5.3"],\
           ["@types/jest", "npm:27.5.2"],\
           ["@types/node", "npm:16.11.26"],\
           ["@typescript-eslint/eslint-plugin", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.18.0"],\
@@ -6439,7 +6443,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["ts-node", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:10.7.0"],\
           ["@cspotcode/source-map-support", "npm:0.7.0"],\
-          ["@swc/core", "npm:1.2.164"],\
+          ["@swc/core", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:1.3.101"],\
           ["@swc/wasm", null],\
           ["@tsconfig/node10", "npm:1.0.8"],\
           ["@tsconfig/node12", "npm:1.0.9"],\
@@ -6489,6 +6493,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/tslib-npm-1.14.1-102499115e-10c0.zip/node_modules/tslib/",\
         "packageDependencies": [\
           ["tslib", "npm:1.14.1"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:2.6.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/tslib-npm-2.6.2-4fc8c068d9-10c0.zip/node_modules/tslib/",\
+        "packageDependencies": [\
+          ["tslib", "npm:2.6.2"]\
         ],\
         "linkType": "HARD"\
       }]\
