@@ -29,7 +29,7 @@ const RAW_RUNTIME_STATE =
           ["@swc/core", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:1.3.101"],\
           ["@swc/helpers", "npm:0.5.3"],\
           ["@types/jest", "npm:27.5.2"],\
-          ["@types/node", "npm:16.11.26"],\
+          ["@types/node", "npm:16.18.68"],\
           ["@typescript-eslint/eslint-plugin", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.18.0"],\
           ["@typescript-eslint/parser", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.18.0"],\
           ["dotenv", "npm:16.0.0"],\
@@ -1551,10 +1551,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:16.11.26", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-16.11.26-6163d95b7d-10c0.zip/node_modules/@types/node/",\
+      ["npm:16.18.68", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-16.18.68-56f72825c0-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:16.11.26"]\
+          ["@types/node", "npm:16.18.68"]\
         ],\
         "linkType": "HARD"\
       }],\
@@ -5306,7 +5306,7 @@ const RAW_RUNTIME_STATE =
           ["@swc/core", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:1.3.101"],\
           ["@swc/helpers", "npm:0.5.3"],\
           ["@types/jest", "npm:27.5.2"],\
-          ["@types/node", "npm:16.11.26"],\
+          ["@types/node", "npm:16.18.68"],\
           ["@typescript-eslint/eslint-plugin", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.18.0"],\
           ["@typescript-eslint/parser", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.18.0"],\
           ["dotenv", "npm:16.0.0"],\
@@ -6449,7 +6449,7 @@ const RAW_RUNTIME_STATE =
           ["@tsconfig/node12", "npm:1.0.9"],\
           ["@tsconfig/node14", "npm:1.0.1"],\
           ["@tsconfig/node16", "npm:1.0.2"],\
-          ["@types/node", "npm:16.11.26"],\
+          ["@types/node", "npm:16.18.68"],\
           ["@types/swc__core", null],\
           ["@types/swc__wasm", null],\
           ["@types/typescript", null],\
