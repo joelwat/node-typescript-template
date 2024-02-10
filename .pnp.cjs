@@ -32,7 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@types/node", "npm:20.11.6"],\
           ["@typescript-eslint/eslint-plugin", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.62.0"],\
           ["@typescript-eslint/parser", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.62.0"],\
-          ["dotenv", "npm:16.4.1"],\
+          ["dotenv", "npm:16.4.2"],\
           ["eslint", "npm:8.56.0"],\
           ["eslint-config-airbnb-base", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:15.0.0"],\
           ["eslint-config-airbnb-typescript", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:17.1.0"],\
@@ -2988,10 +2988,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["dotenv", [\
-      ["npm:16.4.1", {\
-        "packageLocation": "../../../../cache/others/berry/cache/dotenv-npm-16.4.1-07f53222f2-10c0.zip/node_modules/dotenv/",\
+      ["npm:16.4.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/dotenv-npm-16.4.2-37b5b3ab92-10c0.zip/node_modules/dotenv/",\
         "packageDependencies": [\
-          ["dotenv", "npm:16.4.1"]\
+          ["dotenv", "npm:16.4.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5710,7 +5710,7 @@ const RAW_RUNTIME_STATE =
           ["@types/node", "npm:20.11.6"],\
           ["@typescript-eslint/eslint-plugin", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.62.0"],\
           ["@typescript-eslint/parser", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.62.0"],\
-          ["dotenv", "npm:16.4.1"],\
+          ["dotenv", "npm:16.4.2"],\
           ["eslint", "npm:8.56.0"],\
           ["eslint-config-airbnb-base", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:15.0.0"],\
           ["eslint-config-airbnb-typescript", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:17.1.0"],\
