@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@swc/core", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:1.4.8"],\
-          ["@swc/helpers", "npm:0.5.6"],\
+          ["@swc/helpers", "npm:0.5.7"],\
           ["@types/jest", "npm:27.5.2"],\
           ["@types/node", "npm:20.11.28"],\
           ["@typescript-eslint/eslint-plugin", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.62.0"],\
@@ -1306,7 +1306,7 @@ const RAW_RUNTIME_STATE =
           ["@swc/core-win32-ia32-msvc", "npm:1.4.8"],\
           ["@swc/core-win32-x64-msvc", "npm:1.4.8"],\
           ["@swc/counter", "npm:0.1.3"],\
-          ["@swc/helpers", "npm:0.5.6"],\
+          ["@swc/helpers", "npm:0.5.7"],\
           ["@swc/types", "npm:0.1.5"],\
           ["@types/swc__helpers", null]\
         ],\
@@ -1417,10 +1417,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@swc/helpers", [\
-      ["npm:0.5.6", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@swc-helpers-npm-0.5.6-301034a39d-10c0.zip/node_modules/@swc/helpers/",\
+      ["npm:0.5.7", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@swc-helpers-npm-0.5.7-486229c884-10c0.zip/node_modules/@swc/helpers/",\
         "packageDependencies": [\
-          ["@swc/helpers", "npm:0.5.6"],\
+          ["@swc/helpers", "npm:0.5.7"],\
           ["tslib", "npm:2.6.2"]\
         ],\
         "linkType": "HARD"\
@@ -5705,7 +5705,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["node-typescript-template", "workspace:."],\
           ["@swc/core", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:1.4.8"],\
-          ["@swc/helpers", "npm:0.5.6"],\
+          ["@swc/helpers", "npm:0.5.7"],\
           ["@types/jest", "npm:27.5.2"],\
           ["@types/node", "npm:20.11.28"],\
           ["@typescript-eslint/eslint-plugin", "virtual:fa036b0d334fd181bc81ec39b67210eb4c41e4ff6e6be309307ba0436801400da66036e5b712797fe2cd2d3ec7ef4718b4be1560d16720602ad060581b42b4cf#npm:5.62.0"],\
